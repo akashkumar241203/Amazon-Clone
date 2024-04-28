@@ -1,4 +1,4 @@
-# Amazon-Clone-01
+# Amazon-Clone
 Building a copy of Amazon's website using HTML, CSS, and JavaScript for computers is a great way to get better at coding.
 
 # Technologies:
