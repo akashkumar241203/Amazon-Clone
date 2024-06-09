@@ -6,3 +6,6 @@ Building a copy of Amazon's website using HTML, CSS, and JavaScript for computer
 * CSS3
 * CSS Animations
 * Javascript
+
+
+https://amazzonn.netlify.app/
